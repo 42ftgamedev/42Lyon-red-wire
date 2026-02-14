@@ -8,7 +8,7 @@ public class ElevatorScript : MonoBehaviour
     bool touched = false;
     Vector3 p;
     Transform _currentTarget;
-    float _speed = 10;
+    [SerializeField] float _speed;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
