@@ -8,3 +8,10 @@
         - fix le fonctionnement de l'ascenseur a travers l'utilisation de fixedUpdate a la place de Update
             Doc>> fixedUpdate est utile pour les physique du jeu et Update pour le reste.
             >> https://micha-l-davis.medium.com/moving-platforms-in-unity3d-4abc525d077d doc pour les plateform mouvantes sur les cotés.
+
+14/02/2026
+    Nchaize- :
+        - fini completement le fonctionnement de l'ascenceur et update le prefab pour correspondre.
+        il est plutot customisable donc util tout au long du dev pour differentes raisons
+        - commencé le fonctionnement d'un bouton et du bouton d'interaction avec 'E' mais rien de poussé/pushed
+        Doc>> se renseigner sur les Canvas
